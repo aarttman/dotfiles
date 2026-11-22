@@ -1,0 +1,28 @@
+
+# Font
+font-family = "AnonymicePro Nerd Font Mono"
+font-size = 20 
+
+
+# Appearance
+
+theme = Nordfox
+
+background-opacity= 0.8
+background-blur = 50
+
+cursor-style = block
+cursor-style-blink = false
+
+# Window
+
+window-padding-x = 0
+window-padding-y = 0
+
+window-padding-balance = true
+
+# Terminal
+
+term = xterm-256color
+shell-integration = zsh
+copy-on-select = clipboard
